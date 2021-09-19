@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Trip Management App</string>
+    <string name="start_trip">Start Trip</string>
+    <string name="end_trip">End Trip</string>
+    <string name="select_trip">Select Trip</string>
+</resources>
